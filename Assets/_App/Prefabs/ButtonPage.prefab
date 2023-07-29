@@ -142,10 +142,10 @@ MonoBehaviour:
   choos: {fileID: 0}
   ChooseColor32:
     serializedVersion: 2
-    rgba: 4278190080
+    rgba: 4294967295
   unChooseColor:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4289901234
 --- !u!1 &4540314042619635158
 GameObject:
   m_ObjectHideFlags: 0

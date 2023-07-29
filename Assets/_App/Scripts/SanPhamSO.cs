@@ -9,7 +9,7 @@ public class SanPhamSO : ScriptableObject
 {
     public string name = "";
     public string infor = "";
-    public string folderPath = "Assets/App21";
+    public string folderPath = "Assets/";
 
     [InlineProperty] public SanPham[] SanPham;
 

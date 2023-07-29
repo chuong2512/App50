@@ -35,19 +35,19 @@ public class ButtonRegister : MonoBehaviour
         switch (number)
         {
             case 1:
-                TextMeshProUgui.SetText("Mua 1 ngày");
+                TextMeshProUgui.SetText(" 1 ngày");
                 break;
             case 2:
-                TextMeshProUgui.SetText("Mua 7 ngày");
+                TextMeshProUgui.SetText(" 7 ngày");
                 break;
             case 3:
-                TextMeshProUgui.SetText("Mua 30 ngày");
+                TextMeshProUgui.SetText(" 30 ngày");
                 break;
             case 4:
-                TextMeshProUgui.SetText("Mua 90 ngày");
+                TextMeshProUgui.SetText(" 90 ngày");
                 break;
             case 5:
-                TextMeshProUgui.SetText("Mua 180 ngày");
+                TextMeshProUgui.SetText(" 180 ngày");
                 break;
         }
     }
